@@ -1,0 +1,11 @@
+ID,DE,PARA,FECHA,MENSAJE,LECTURA
+1,sample1@gmail.com,sample2@gmail.com,2024-10-10,Hello! World,No leido
+2,sample1@gmail.com,sample2@gmail.com,2024-11-09,Probando casilla de mails,No leido
+3,sample1@gmail.com,sample2@gmail.com,2024-11-03,Mensaje de prueba,Leido
+4,sample1@gmail.com,sample2@gmail.com,2024-11-10,Otro mensaje de prueba,Leido
+5,sample1@gmail.com,sample2@gmail.com,2024-11-06,Otro mas,No leido
+6,sample1@gmail.com,sample2@gmail.com,2024-11-10,Me quedo sin ideas,Leido
+7,sample1@gmail.com,sample2@gmail.com,2024-11-10,Seguimiento del TP,Leido
+8,sample1@gmail.com,sample2@gmail.com,2024-11-01,Empieza la semana de parciales,Leido
+9,sample1@gmail.com,sample2@gmail.com,2024-10-24,Solo un mail mas,No leido
+10,sample1@gmail.com,sample2@gmail.com,2024-11-10,"Listo, nos vemos",Leido

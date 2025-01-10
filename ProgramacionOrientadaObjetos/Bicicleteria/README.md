@@ -1,4 +1,4 @@
-Archivos CSV: Contienen datos relevantes de la bicicletería, como precios de las bicicletas, descuentos disponibles, e información proporcionada por la ciudad sobre los recorridos de bicicletas, útil para realizar análisis de datos.
+Archivos CSV: Contienen datos relevantes de la bicicletería, como precios de las bicicletas, descuentos disponibles, e información proporcionada por la ciudad sobre los recorridos de bicicletas, útil para realizar análisis de datos. Al usar la interfaz e ir creando usuarios o bicicletas se crean archivos CSV que contienen la informacion de los usuarios creados y de las bicicletas.
 
 Archivos de Python: Implementan la programación orientada a objetos para modelar los elementos principales. Por ejemplo, el archivo Bicicleta.py modela las características y funcionalidades de una bicicleta.
 

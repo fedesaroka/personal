@@ -1,1 +1,2 @@
 Durante el año 2024, mis amigos y yo decidimos registrar todas nuestras cenas y recopilar información relevante sobre cada una. Se me ocurrió trabajar en este proyecto para visualizar los datos de manera clara y sencilla. Este dataset incluye el registro de todas las cenas realizadas a lo largo del año, comenzando en marzo, el mes en que finalizan las vacaciones.
+Podemos ver el dataset y un archivo que se llama vizualizacion. Este archivo contiene el link de ese mismo ya que decidi vizualisar la informacion con Tableau.

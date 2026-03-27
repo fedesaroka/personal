@@ -1,3 +1,4 @@
+## La Mosca – Social Dinner Data Analysis
 Proyecto personal de análisis de datos basado en el seguimiento de cenas semanales entre un grupo de amigos. El objetivo es analizar comportamientos, asistencia y dinámicas sociales a partir de datos recolectados a lo largo del tiempo.
 
 Qué hice

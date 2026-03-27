@@ -3,10 +3,10 @@
 Proyecto personal de análisis de datos basado en el seguimiento de cenas semanales entre un grupo de amigos. El objetivo es analizar comportamientos, asistencia y dinámicas sociales a partir de datos recolectados a lo largo del tiempo.
 
 ## Qué hice
-Recolección y estructuración de datos de asistencia, comida, precios y locación
-Integración de múltiples fuentes de datos (Google Sheets, APIs externas)
-Cálculo de métricas como asistencia, frecuencia, costos y distancias recorridas
-Desarrollo de visualizaciones para explorar patrones y tendencias
+- Recolección y estructuración de datos de asistencia, comida, precios y locación
+- Integración de múltiples fuentes de datos (Google Sheets, APIs externas)
+- Cálculo de métricas como asistencia, frecuencia, costos y distancias recorridas
+- Desarrollo de visualizaciones para explorar patrones y tendencias
 ## Evolución del proyecto
 📅 2024
 - Registro manual en Excel
